@@ -1,3 +1,4 @@
+cd ..
 cd train
 #./script.sh
 cd ../test
